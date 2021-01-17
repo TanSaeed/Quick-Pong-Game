@@ -1,5 +1,5 @@
 # Quick-Pong-Game
-Quick Pong game using javas awt classes to help animated the ball movement. Also uses JFrame to hold the game JPanel. OOP princples are used to create this game. The game is a simple pong game with controls being WASD for player 1 (RED) and the ARROW KEYS for player 2 (Blue). There is a scoreboard at the top of the screen, the scores go up indefinitely. 
+Quick Pong game using javas awt classes to help animated the ball movement. Also uses JFrame to hold the game JPanel. OOP princples are used to create this game. The game is a simple pong game with controls being W and S (latter S for going down) for player 1 (Red) and the UP and DOWN ARROW KEYS for player 2 (Blue). There is a scoreboard at the top of the screen, the scores go up indefinitely. 
 
 ## Installation
  
