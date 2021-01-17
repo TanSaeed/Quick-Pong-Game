@@ -10,4 +10,4 @@ To install and play the game import "Final" folder into the Java environment of 
 - Eclipse: Java
 - Programming Paradigm: Object-Oriented Programing, Inheritance, Composition, and Encapsulation.
 
-![Alt text](/relative/path/to/test.png?raw=true "Example")
+![Alt text](https://github.com/TanSaeed/Quick-Pong-Game/blob/main/Test.png)
